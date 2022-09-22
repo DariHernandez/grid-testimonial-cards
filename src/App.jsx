@@ -7,39 +7,31 @@ function App() {
     const [count, setCount] = useState(0)
 
     return (
-        // Cards wrapper
         <main className='container w-100'>
-            {/* Main grid */}
             <div className='row'>
-                {/* left column, max with in xs, */}
                 <div className='col-12 col-lg-9 bg-primary'>
-                    {/* Internal grid: top left*/}
                     <div className='row'>
-                        {/* Card: max with in xl, 8/12 of with in large */}
                         <div className='col-12 col-lg-8 bg-dark'>
-                            <Card />
+                            {/* Card component */}
+                            <Card image="daniel" name="daniel clifford" />
                         </div>
 
-                        {/* Card: max with in xl, 4/12 of with in large */}
                         <div className='col-12 col-lg-4 bg-success'>
-                            <Card />
+                            <Card image="jonathan" name="jonathan walters" />
                         </div>
 
-                        {/* Card: max with in xl, 4/12 of with in large */}
                         <div className='col-12 col-lg-4 bg-warningt'>
-                            <Card />
+                            <Card image="jeanette" name="jeanette harmon" />
                         </div>
 
-                        {/* Card: max with in xl, 8/12 of with in large */}
                         <div className='col-12 col-lg-8 bg-info'>
-                            <Card />
+                            <Card image="patrick" name="patrick abrams" />
                         </div>
                     </div>
                 </div>
 
-                {/* right card, max with in xs, */}
                 <div className='col-12 col-lg-3 bg-secondary'>
-                    <Card />
+                    <Card image="kira" name="kira whittle" />
                 </div>
             </div>
         </main>

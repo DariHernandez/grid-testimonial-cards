@@ -1,29 +1,24 @@
 import PropTypes from 'prop-types'
 
-function Card(props) {
+function Card({ image, name }) {
     return (
-        // Card element who align text to left
-        <article className='card text-start'>
-            {/* Body of the card */}
+        <article className='card text-start p-0'>
             <div className='card-body'>
-                {/* Flex for position image and text */}
-                <div className='d-flex mb-3'>
-                    {/* Image with border 2 px solid and secondary color, with border-radios 50% */}
+                <div className='d-flex align-items-center mb-3'>
                     <img
-                        src='imgs/image-daniel.jpg'
+                        // props image
+                        src={`imgs/image-${image}.jpg`}
                         alt=''
-                        className='border border-secondary border-3 rounded-circle'
+                        className='border border-secondary border-3 rounded-circle w-1'
                     />
 
-                    {/* Margin left */}
                     <div className='ps-3'>
-                        {/* Remove margins, and set h6 size to name*/}
-                        <h2 className='m-0 h6'>Daniel Clifford</h2>
+                        { /* props name  */}
+                        <h2 className='m-0 h6 text-capitalize'>{name}</h2>
                         <p className='m-0'>Lorem Lorem</p>
                     </div>
                 </div>
 
-                {/* Text, with custom font size and line height*/}
                 <p className='fs-6 lh-1'>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                     Voluptas aut quasi natus eligendi, deleniti ut magni
@@ -41,6 +36,10 @@ function Card(props) {
     )
 }
 
-Card.propTypes = {}
+// Props datatype
+Card.propTypes = {
+    image: PropTypes.string.isRequired,
+    name: PropTypes.string.isRequired,
+}
 
 export default Card
