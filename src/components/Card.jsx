@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 function Card({ image, name, bgcolor, texts, color }) {
     return (
         // Add text color class to card
-        <article className={`card text-start p-2 h-100 ${bgcolor} ${color}`}>
+        <article className={`card text-start p-2 h-100 shadow-sm ${bgcolor} ${color}`}>
             <div className='card-body'>
                 <div className='d-flex align-items-center mb-3'>
                     <img
