@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "purgecss": "purgecss --css src/css/custom.css --content src/*.jsx src/components/*.jsx -o src/css/custom_reduced.css"
+    "purgecss": "purgecss --css src/css/custom.css --content src/*.jsx src/components/*.jsx -o src/css/custom_reduced.css",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "bootstrap": "^5.2.1",
@@ -20,6 +21,7 @@
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "^2.1.0",
+    "gh-pages": "^4.0.0",
     "vite": "^3.1.0"
   }
 }
