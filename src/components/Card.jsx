@@ -1,9 +1,9 @@
 import PropTypes from 'prop-types'
 
-function Card({ image, name, bgcolor, texts }) {
+function Card({ image, name, bgcolor, texts, color }) {
     return (
-        // Add bgcolor class to card
-        <article className={`card text-start p-2 h-100 ${bgcolor}`}>
+        // Add text color class to card
+        <article className={`card text-start p-2 h-100 ${bgcolor} ${color}`}>
             <div className='card-body'>
                 <div className='d-flex align-items-center mb-3'>
                     <img
@@ -38,6 +38,7 @@ Card.propTypes = {
     name: PropTypes.string.isRequired,
     bgcolor: PropTypes.string.isRequired,
     texts: PropTypes.arrayOf(PropTypes.string).isRequired,
+    color: PropTypes.string.isRequired,
 }
 
 export default Card

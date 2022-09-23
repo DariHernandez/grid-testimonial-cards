@@ -13,17 +13,16 @@ function App() {
     return (
         <main className='container w-100'>
             <div className='row'>
-                {/* Remove bg-color in wrapper */}
                 <div className='col-12 col-lg-9'>
                     <div className='row'>
-                        {/* Custom padding in rows */}
                         <div className='col-12 col-lg-8 p-2'>
-                            {/* Submit bgcolor class and custom text to cards  */}
+                            {/* Submit text color class  */}
                             <Card
                                 image='daniel'
                                 name='daniel clifford'
                                 bgcolor='bg-primary'
                                 texts={[text, text]}
+                                color="text-light"
                             />
                         </div>
 
@@ -33,6 +32,7 @@ function App() {
                                 name='jonathan walters'
                                 bgcolor='bg-success'
                                 texts={[text]}
+                                color="text-light"
                             />
                         </div>
 
@@ -40,8 +40,9 @@ function App() {
                             <Card
                                 image='jeanette'
                                 name='jeanette harmon'
-                                bgcolor='bg-warning'
+                                bgcolor='bg-secondary'
                                 texts={[text]}
+                                color="text-body"
                             />
                         </div>
 
@@ -49,8 +50,9 @@ function App() {
                             <Card
                                 image='patrick'
                                 name='patrick abrams'
-                                bgcolor='bg-info'
+                                bgcolor='bg-dark'
                                 texts={[text, text]}
+                                color="text-light"
                             />
                         </div>
                     </div>
@@ -62,6 +64,7 @@ function App() {
                         name='kira whittle'
                         bgcolor='bg-secondary'
                         texts={[text, text, text]}
+                        color="text-body"
                     />
                 </div>
             </div>
