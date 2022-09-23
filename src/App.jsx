@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
-import './App.css'
 import Card from './components/Card'
 
 function App() {
@@ -11,7 +10,7 @@ function App() {
         'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corrupti repellat dolor dolorum quisquam nisi magni nulla sint ea quasi aliquid accusamus, architecto dicta.'
 
     return (
-        <main className='container w-100'>
+        <main className='container w-100 d-flex align-items-center height-100-vh'>
             <div className='row'>
                 <div className='col-12 col-lg-9'>
                     <div className='row'>
@@ -20,7 +19,7 @@ function App() {
                             <Card
                                 image='daniel'
                                 name='daniel clifford'
-                                bgcolor='bg-primary'
+                                bgcolor='bg-primary bg-card-img'
                                 texts={[text, text]}
                                 color="text-light"
                             />

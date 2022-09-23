@@ -4,6 +4,16 @@
     height: 100vh;
   }
 }
+.d-flex img {
+  width: 50px;
+}
+
+.bg-card-img {
+  background-image: url("imgs/bg-pattern-quotation.svg");
+  background-repeat: no-repeat;
+  background-position: 85% top;
+}
+
 /*!
  * Bootstrap  v5.2.1 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
