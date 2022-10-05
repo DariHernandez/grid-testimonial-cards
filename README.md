@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/DariHernandez/grid-testimonial-cards/">
+  <a href="https://github.com/darideveloper/grid-testimonial-cards/">
     <img src="public/logo.jpg" alt="Logo" height="80">
   </a>
 
@@ -38,11 +38,11 @@
 Bluuweb</a> "Curso: Fundamentos de Bootstrap 5 [Sass incluido + Guía con códigos]"
     <br />
     <br />
-    <a href="https://darihernandez.github.io/grid-testimonial-cards/">View Demo</a>
+    <a href="https://darideveloper.github.io/grid-testimonial-cards/">View Demo</a>
     ·
-    <a href="https://github.com/DariHernandez/grid-testimonial-cards/issues">Report Bug</a>
+    <a href="https://github.com/darideveloper/grid-testimonial-cards/issues">Report Bug</a>
     ·
-    <a href="https://github.com/DariHernandez/grid-testimonial-cards/issues">Request Feature</a>
+    <a href="https://github.com/darideveloper/grid-testimonial-cards/issues">Request Feature</a>
   </p>
 </div>
 
@@ -68,7 +68,7 @@ Bluuweb</a> "Curso: Fundamentos de Bootstrap 5 [Sass incluido + Guía con códig
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Result Screen Shot][product-screenshot]](https://darihernandez.github.io/grid-testimonial-cards/)
+[![Result Screen Shot][product-screenshot]](https://darideveloper.github.io/grid-testimonial-cards/)
 
 Small React app for learn the main Bootstrap topics. The app show 5 testimonial cards, styled with Bootstrap5, and the final result have the only required css lines, using the module PurgeCSS
 
@@ -111,7 +111,7 @@ Small React app for learn the main Bootstrap topics. The app show 5 testimonial 
 - [x] [Purge CSS](notes/Purge%20CSS%20ff44418b92374f21ac0ec63a7ca6e63b.md)
 - [ ] Auto layout new cards
 
-See the [open issues](https://github.com/DariHernandez/grid-testimonial-cards/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/darideveloper/grid-testimonial-cards/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,7 +130,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Dari Dev - darideveloper@gmail.com@
 
-Project Link: [https://github.com/DariHernandez/grid-testimonial-cards/](https://github.com/DariHernandez/grid-testimonial-cards/)
+Project Link: [https://github.com/darideveloper/grid-testimonial-cards/](https://github.com/darideveloper/grid-testimonial-cards/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,16 +147,16 @@ Project Link: [https://github.com/DariHernandez/grid-testimonial-cards/](https:/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/DariHernandez/grid-testimonial-cards.svg?style=for-the-badge
-[contributors-url]: https://github.com/DariHernandez/grid-testimonial-cards//graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/DariHernandez/grid-testimonial-cards.svg?style=for-the-badge
-[forks-url]: https://github.com/DariHernandez/grid-testimonial-cards//network/members
-[stars-shield]: https://img.shields.io/github/stars/DariHernandez/grid-testimonial-cards.svg?style=for-the-badge
-[stars-url]: https://github.com/DariHernandez/grid-testimonial-cards//stargazers
-[issues-shield]: https://img.shields.io/github/issues/DariHernandez/grid-testimonial-cards.svg?style=for-the-badge
-[issues-url]: https://github.com/DariHernandez/grid-testimonial-cards/issues
-[license-shield]: https://img.shields.io/github/license/DariHernandez/task-board-app.svg?style=for-the-badge
-[license-url]: https://github.com/DariHernandez/grid-testimonial-cards//blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/darideveloper/grid-testimonial-cards.svg?style=for-the-badge
+[contributors-url]: https://github.com/darideveloper/grid-testimonial-cards//graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/darideveloper/grid-testimonial-cards.svg?style=for-the-badge
+[forks-url]: https://github.com/darideveloper/grid-testimonial-cards//network/members
+[stars-shield]: https://img.shields.io/github/stars/darideveloper/grid-testimonial-cards.svg?style=for-the-badge
+[stars-url]: https://github.com/darideveloper/grid-testimonial-cards//stargazers
+[issues-shield]: https://img.shields.io/github/issues/darideveloper/grid-testimonial-cards.svg?style=for-the-badge
+[issues-url]: https://github.com/darideveloper/grid-testimonial-cards/issues
+[license-shield]: https://img.shields.io/github/license/darideveloper/task-board-app.svg?style=for-the-badge
+[license-url]: https://github.com/darideveloper/grid-testimonial-cards//blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/francisco-dari-hernandez-6456b6181/
 [product-screenshot]: public/screenshot.gif
