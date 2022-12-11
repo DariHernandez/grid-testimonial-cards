@@ -11,15 +11,11 @@
 
 
 <!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Fiverr][fiverr-shield]][fiverr-url]
+[![Gmail][gmail-shield]][gmail-url]
+
 
 
 
@@ -72,8 +68,6 @@ Bluuweb</a> "Curso: Fundamentos de Bootstrap 5 [Sass incluido + Guía con códig
 
 Small React app for learn the main Bootstrap topics. The app show 5 testimonial cards, styled with Bootstrap5, and the final result have the only required css lines, using the module PurgeCSS
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -91,7 +85,6 @@ Small React app for learn the main Bootstrap topics. The app show 5 testimonial 
   <img src="https://i.imgur.com/UEiUiJ0.png" width="50" alt="purgecss" title="purgecss">
 </a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -113,15 +106,11 @@ Small React app for learn the main Bootstrap topics. The app show 5 testimonial 
 
 See the [open issues](https://github.com/darideveloper/grid-testimonial-cards/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -132,17 +121,12 @@ Dari Dev - darideveloper@gmail.com@
 
 Project Link: [https://github.com/darideveloper/grid-testimonial-cards/](https://github.com/darideveloper/grid-testimonial-cards/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 * [Bluuweb](https://www.youtube.com/c/Bluuweb)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -180,3 +164,9 @@ Project Link: [https://github.com/darideveloper/grid-testimonial-cards/](https:/
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[gmail-shield]: https://img.shields.io/badge/-gmail-black.svg?style=for-the-badge&logo=gmail&colorB=555&logoColor=white
+[fiverr-shield]: https://img.shields.io/badge/-fiverr-black.svg?style=for-the-badge&logo=fiverr&colorB=555&logoColor=white
+[gmail-url]: mailto:darideveloper@gmail.com
+[fiverr-url]: https://www.fiverr.com/darideveloper
+
+<span>Last code update: <time datetime="2022-09-23" class="last-update">2022-09-23</time>
