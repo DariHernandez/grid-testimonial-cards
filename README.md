@@ -1,172 +1,66 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
+<div><a href='https://github.com/github.com/darideveloper/blob/master/LICENSE' target='_blank'>
+            <img src='https://img.shields.io/github/license/github.com/darideveloper.svg?style=for-the-badge' alt='MIT License' height='30px'/>
+        </a><a href='https://www.linkedin.com/in/francisco-dari-hernandez-6456b6181/' target='_blank'>
+                <img src='https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=' alt='Linkedin' height='30px'/>
+            </a><a href='https://t.me/darideveloper' target='_blank'>
+                <img src='https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=' alt='Telegram' height='30px'/>
+            </a><a href='https://github.com/darideveloper' target='_blank'>
+                <img src='https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=' alt='Github' height='30px'/>
+            </a><a href='https://www.fiverr.com/darideveloper?up_rollout=true' target='_blank'>
+                <img src='https://img.shields.io/static/v1?style=for-the-badge&message=Fiverr&color=222222&logo=Fiverr&logoColor=1DBF73&label=' alt='Fiverr' height='30px'/>
+            </a><a href='https://discord.com/users/992019836811083826' target='_blank'>
+                <img src='https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=' alt='Discord' height='30px'/>
+            </a><a href='mailto:darideveloper@gmail.com?subject=Hello Dari Developer' target='_blank'>
+                <img src='https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=' alt='Gmail' height='30px'/>
+            </a></div><div align='center'><br><br><img src='https://github.com/darideveloper/grid-testimonial-cards/raw/master/public/logo.jpg' alt='Grid Testimonial Cards' height='80px'/>
 
+# Grid Testimonial Cards
 
+Visit at: **[darideveloper.github.io/grid-testimonial-cards](https://darideveloper.github.io/grid-testimonial-cards/)**
 
-<!-- PROJECT SHIELDS -->
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Fiverr][fiverr-shield]][fiverr-url]
-[![Gmail][gmail-shield]][gmail-url]
+Testimonials cards based in Bootstrap course of the developer [Bluuweb](https://www.youtube.com/c/Bluuweb) \\\"Curso: Fundamentos de Bootstrap 5 [Sass incluido + Gu�a con c�digos]\\\"
 
+Start date: **2022-09-22**
 
+Last update: **2023-05-10**
 
+Project type: **personal's project**
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/darideveloper/grid-testimonial-cards/">
-    <img src="public/logo.jpg" alt="Logo" height="80">
-  </a>
+</div><br><details>
+            <summary>Table of Contents</summary>
+            <ol>
+<li><a href='#buildwith'>Build With</a></li>
+<li><a href='#media'>Media</a></li>
+<li><a href='#details'>Details</a></li>
+<li><a href='#roadmap'>Roadmap</a></li></ol>
+        </details><br>
 
-<h3 align="center">Testimonial Cards</h3>
+# Build with
 
-  <p align="center">
-    Testimonials cards based in Bootstrap course of the developer   
-    <a href="https://www.youtube.com/c/Bluuweb">
-Bluuweb</a> "Curso: Fundamentos de Bootstrap 5 [Sass incluido + Guía con códigos]"
-    <br />
-    <br />
-    <a href="https://darideveloper.github.io/grid-testimonial-cards/">View Demo</a>
-    ·
-    <a href="https://github.com/darideveloper/grid-testimonial-cards/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/darideveloper/grid-testimonial-cards/issues">Request Feature</a>
-  </p>
-</div>
+<div align='center'><a href='https://purgecss.com/' target='_blank'> <img src='https://i.imgur.com/UEiUiJ0.png' alt='PurgeCSS' title='PurgeCSS' height='50px'/> </a><a href='https://react.dev/' target='_blank'> <img src='https://cdn.svgporn.com/logos/react.svg' alt='React' title='React' height='50px'/> </a><a href='https://getbootstrap.com/' target='_blank'> <img src='https://cdn.svgporn.com/logos/bootstrap.svg' alt='Bootstrap' title='Bootstrap' height='50px'/> </a><a href='https://vitejs.dev/guide/' target='_blank'> <img src='https://cdn.svgporn.com/logos/vitejs.svg' alt='Vite' title='Vite' height='50px'/> </a></div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+# Media
 
+![home](https://github.com/darideveloper/grid-testimonial-cards/raw/master/public/screenshot.gif)
 
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Result Screen Shot][product-screenshot]](https://darideveloper.github.io/grid-testimonial-cards/)
+# Details
 
 Small React app for learn the main Bootstrap topics. The app show 5 testimonial cards, styled with Bootstrap5, and the final result have the only required css lines, using the module PurgeCSS
 
+# Roadmap
 
-
-### Built With
-
-<a href="https://es.reactjs.org/">
-  <img src="https://cdn.svgporn.com/logos/react.svg" width="50" alt="react" title="react">
-</a>
-<a href="https://getbootstrap.com/">
-  <img src="https://cdn.svgporn.com/logos/bootstrap.svg" width="50" alt="bootstrap" title="bootstrap">
-</a>
-<a href="https://vitejs.dev/">
-  <img src="https://cdn.svgporn.com/logos/vitejs.svg" width="50" alt="vitejs" title="vitejs">
-</a>
-<a href="https://purgecss.com/">
-  <img src="https://i.imgur.com/UEiUiJ0.png" width="50" alt="purgecss" title="purgecss">
-</a>
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-
-- [x] [Bootstrap in React](notes/Bootstrap%20in%20React%207d3f4caccce84e7c804daacb3d0b27ec.md)
-- [x] [Container](notes/Container%20db0b2f5cf35f45c8801f01da44dae12b.md)
-- [x] [Breakpoints](notes/Breakpoints%20fdabe2281bc44de9965804ab73fdeaf2.md)
-- [x] [Colors](notes/Colors%2045b6a16b7f954a94a14a9af27a85fcdb.md)
-- [x] [Grid](notes/Grid%205c084ac018484445b9da8b69f78bb99f.md)
-- [x] [Flex](notes/Flex%20fc6b710b738c484697530e0e95908e43.md)
-- [x] [Custom media queries](notes/Custom%20media%20queries%20bf7b9cef41104d4ab76172ab232eb332.md)
-- [x] [Cards](notes/Cards%20763a4f94930e4c4e94f592d574453489.md)
-- [x] [Custom cards](notes/Custom%20cards%2065a9145fe6034fa380d674e256a50304.md)
-- [x] [Cutomize styles](notes/Cutomize%20styles%20e687f4def35143f399fca1473a283055.md)
-- [x] [Shadows](notes/Shadows%20b1742cd45abb43b6bff2ad0970fa4d5d.md)
-- [x] [Purge CSS](notes/Purge%20CSS%20ff44418b92374f21ac0ec63a7ca6e63b.md)
+- [x] Bootstrap in React\r
+- [x] Container\r
+- [x] Breakpoints\r
+- [x] Colors\r
+- [x] Grid\r
+- [x] Flex\r
+- [x] Custom media queries\r
+- [x] Cards\r
+- [x] Custom cards\r
+- [x] Cutomize styles\r
+- [x] Shadows\r
+- [x] Purge CSS\r
 - [ ] Auto layout new cards
 
-See the [open issues](https://github.com/darideveloper/grid-testimonial-cards/issues) for a full list of proposed features (and known issues).
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Dari Dev - darideveloper@gmail.com@
-
-Project Link: [https://github.com/darideveloper/grid-testimonial-cards/](https://github.com/darideveloper/grid-testimonial-cards/)
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* [Bluuweb](https://www.youtube.com/c/Bluuweb)
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/darideveloper/grid-testimonial-cards.svg?style=for-the-badge
-[contributors-url]: https://github.com/darideveloper/grid-testimonial-cards//graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/darideveloper/grid-testimonial-cards.svg?style=for-the-badge
-[forks-url]: https://github.com/darideveloper/grid-testimonial-cards//network/members
-[stars-shield]: https://img.shields.io/github/stars/darideveloper/grid-testimonial-cards.svg?style=for-the-badge
-[stars-url]: https://github.com/darideveloper/grid-testimonial-cards//stargazers
-[issues-shield]: https://img.shields.io/github/issues/darideveloper/grid-testimonial-cards.svg?style=for-the-badge
-[issues-url]: https://github.com/darideveloper/grid-testimonial-cards/issues
-[license-shield]: https://img.shields.io/github/license/darideveloper/task-board-app.svg?style=for-the-badge
-[license-url]: https://github.com/darideveloper/grid-testimonial-cards//blob/master/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/francisco-dari-hernandez-6456b6181/
-[product-screenshot]: public/screenshot.gif
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vite.js]: public/shelds/vite.svg
-[Vite-url]: https://reactjs.org/
-[Tailwind.CSS]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
-[TailwindCSS-url]: https://reactjs.org/
-[Vue.js]: public/shelds/vite.svg
-[Vue-url]: https://vitejs.dev/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
-[gmail-shield]: https://img.shields.io/badge/-gmail-black.svg?style=for-the-badge&logo=gmail&colorB=555&logoColor=white
-[fiverr-shield]: https://img.shields.io/badge/-fiverr-black.svg?style=for-the-badge&logo=fiverr&colorB=555&logoColor=white
-[gmail-url]: mailto:darideveloper@gmail.com
-[fiverr-url]: https://www.fiverr.com/darideveloper
-
-<span>Last code update: <time datetime="2022-09-23" class="last-update">2022-09-23</time>
