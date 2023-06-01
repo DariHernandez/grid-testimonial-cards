@@ -18,7 +18,7 @@
 
 Visit at: **[darideveloper.github.io/grid-testimonial-cards](https://darideveloper.github.io/grid-testimonial-cards/)**
 
-Testimonials cards based in Bootstrap course of the developer [Bluuweb](https://www.youtube.com/c/Bluuweb) \\\"Curso: Fundamentos de Bootstrap 5 [Sass incluido + Guía con códigos]\\\"
+Testimonials cards based in Bootstrap course of the developer [Bluuweb](https://www.youtube.com/c/Bluuweb) "Curso: Fundamentos de Bootstrap 5 [Sass incluido + GuÃ­a con cÃ³digos]"
 
 Start date: **2022-09-22**
 
@@ -49,18 +49,18 @@ Small React app for learn the main Bootstrap topics. The app show 5 testimonial 
 
 # Roadmap
 
-- [x] Bootstrap in React\r
-- [x] Container\r
-- [x] Breakpoints\r
-- [x] Colors\r
-- [x] Grid\r
-- [x] Flex\r
-- [x] Custom media queries\r
-- [x] Cards\r
-- [x] Custom cards\r
-- [x] Cutomize styles\r
-- [x] Shadows\r
-- [x] Purge CSS\r
+- [x] Bootstrap in React
+- [x] Container
+- [x] Breakpoints
+- [x] Colors
+- [x] Grid
+- [x] Flex
+- [x] Custom media queries
+- [x] Cards
+- [x] Custom cards
+- [x] Cutomize styles
+- [x] Shadows
+- [x] Purge CSS
 - [ ] Auto layout new cards
 
 
